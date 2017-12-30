@@ -1,0 +1,2 @@
+# allen_downey_computational_statistics_scipy_2015_tutorial
+Allen Downey Computational statistics SciPy 2015 tutorial code
